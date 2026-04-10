@@ -1,8 +1,8 @@
 class SimpleGitWorktree < Formula
   desc "Simple git worktree manager"
   homepage "https://github.com/silasvasconcelos/simple-git-worktreee"
-  url "https://github.com/silasvasconcelos/simple-git-worktreee/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "ccefe7b8fe535de0b0fc1c4d29170b0e279a36c7a773e6daac2c4744bc024f6d"
+  url "https://github.com/silasvasconcelos/simple-git-worktreee/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "35b8ccf771fc92d2405252d718e356a22b78e3dfb1360add48a167618c7367fc"
   license "MIT"
 
   depends_on "git"
